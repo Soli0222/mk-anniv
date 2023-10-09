@@ -29,7 +29,7 @@ if last_note != dt_now:
 1. このリポジトリをクローンします。
 
    ```bash
-   git clone https://github.com/your-username/spotify-now-playing.git
+   git clone https://github.com/Soli0222/mk-anniv
    ```
 
 2. 環境変数を設定します。
