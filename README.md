@@ -1,6 +1,6 @@
 # Misskey Anniversary Bot
 
-このアプリケーションは、Misskeyに向けて設定した日付から記念日を計算し、投稿するBotです。
+このアプリケーションは、設定した日付から記念日を計算し、任意のMisskeyサーバーへ投稿するBotです。
 
 ## アプリケーションの概要
 
@@ -35,7 +35,7 @@ if last_note != dt_now:
 2. 環境変数を設定します。
 
    ```bash
-   mv .env.example .env
+   cp .env.example .env
    ```
 
     ``.env``ファイルを開き、内容を編集します。
